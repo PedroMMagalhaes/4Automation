@@ -1,10 +1,10 @@
 # 4Automation
 Final Project - Informatics Engineering
 
-#Video
+# Video
 https://youtu.be/LC6_Lb84A5A
 
-#Abstract
+# Abstract
 The home automation or domotics has the meaning of automating and controlling electronic systems present at a user’s home. This means that we can easily control every electronic equipment in a house through the internet, making a person’s life more comfortable and efficient. 
 Domotics is a network of hardware, communication, and electronic interfaces that are integrated with our daily routine devices through the internet for user access. Each equipment has an embedded sensor and is connected through the WiFi making it possible managing through a web platform at home or another different location. This allows us to turn off lights, locking the entrance or even initiate the process of cooling a home division. 
 There are three main elements in a domotics system: sensors, controllers and actuators. 
