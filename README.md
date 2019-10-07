@@ -1,6 +1,8 @@
 # 4Automation
 Final Project - Informatics Engineering
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 # Video
 https://youtu.be/LC6_Lb84A5A
 
