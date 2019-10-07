@@ -1,7 +1,7 @@
 # 4Automation
 Final Project - Informatics Engineering
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](Logo_4Automation/4Automation_noBack.png)
 
 # Video
 https://youtu.be/LC6_Lb84A5A
