@@ -1,12 +1,4 @@
 /*
- * ----------------------------------------------------------------------
- * Example program showing how to read new NUID from a PICC to serial.
- * ----------------------------------------------------------------------
- * https://circuits4you.com
- * 
- * RC522 Interfacing with NodeMCU
- * 
- * Typical pin layout used:
  * ----------------------------------
  *             MFRC522      Node     
  *             Reader/PCD   MCU      
